@@ -34,7 +34,7 @@
     "escape-goat": "^2.1.0",
     "firebase": "^6.6.1",
     "graphql": "^14.5.5",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.1.2",
     "lodash.debounce": "^4.0.8",
     "lodash.omitby": "^4.6.0",
     "match-sorter": "^4.0.0",
